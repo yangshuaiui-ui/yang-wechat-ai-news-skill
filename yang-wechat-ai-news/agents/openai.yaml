@@ -1,0 +1,4 @@
+interface:
+  display_name: "杨帅公众号 AI 快讯"
+  short_description: "公众号 AI 热点写作、证据配图和 HTML 交付"
+  default_prompt: "Use $yang-wechat-ai-news to run my WeChat AI news workflow from evidence to publishable HTML."
