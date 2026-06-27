@@ -18,9 +18,11 @@ The useful article usually answers one question:
 4. Find evidence before writing the final body.
 5. Map every key screenshot or recording to a nearby sentence.
 6. Write from first-person working judgment.
-7. Pressure-test title and first screen.
-8. Turn the draft into WeChat-copyable HTML.
-9. Run the publish gates before handoff.
+7. Run the first iteration gate: self-check the draft against hard bans, style ledger, evidence fit, and reader value.
+8. Pressure-test title and first screen.
+9. Turn the draft into WeChat-copyable HTML.
+10. Run the publish gates before handoff.
+11. After user edits, compare the generated draft with the user-final draft and update the next-run style rules.
 
 ## Article Skeletons
 
@@ -31,6 +33,14 @@ Use one of these shapes when it fits the material:
 - `我看到的信号 -> 我为什么停下来研究 -> 证据链 -> 这不是热闹而是变化 -> 怎么应对`
 
 Do not force every article into a dramatic story. If the user's draft is a practical judgment piece, preserve that structure first.
+
+## Work Modes
+
+- **New article from a topic**: scan or verify the topic, gather evidence, draft, self-check, generate HTML, and wait for user review.
+- **User-provided draft**: preserve the user's core structure first; rewrite for voice, evidence, title, and WeChat layout without compressing the content into a thin summary.
+- **Generated draft revision**: patch the current draft and sync Markdown, HTML, and self-check outputs.
+- **User-final learning**: when the user edits a generated draft into a final version, diff the two versions and turn the user's changes into future style rules.
+- **Rejected output recovery**: classify what failed: topic, structure, voice, title, evidence, HTML, or workflow. Fix the artifact and add a reusable rule.
 
 ## First-Screen Rule
 
@@ -82,3 +92,4 @@ A finished task is not finished at Markdown. For WeChat delivery, the expected f
 - WeChat-copyable HTML
 - title, cover short title, summary
 - final self-check
+- style-delta note when a user-final draft is available

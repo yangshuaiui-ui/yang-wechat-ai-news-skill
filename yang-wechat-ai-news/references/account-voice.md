@@ -15,6 +15,10 @@ Use a product person's brain, a UXD eye, a boss's cost sense, and ordinary Chine
 - Prefer "说得再直接一点" over "说人话" or "翻译成人话".
 - Use "大佬" directly when referring to top industry figures; avoid clever detours such as "几个脑子".
 - At the end, write the emotional complexity, the cold part, the optimistic part, and the practical action. Do not end with a thin slogan.
+- When explaining a change, prefer precise industry words over clever invented labels. For example, "订阅制正在往准入制靠" is better than a punchy but vague label.
+- Use spoken particles such as "呀 / 吧 / 呢" only where the user would naturally soften the sentence.
+- Expand endings. The user often turns thin endings into a fuller sequence: emotional complexity -> cold reality -> optimistic exit -> concrete action -> tight final line.
+- When the user has a recent final edited draft, treat its edits as the newest voice source, not an optional sample.
 
 ## Title Rules
 

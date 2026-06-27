@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mac 存储体检"
+  short_description: "只读扫描 Mac 空间，按风险判断哪些能清"
+  default_prompt: "Use $mac-storage-doctor to diagnose my Mac storage usage without deleting anything."

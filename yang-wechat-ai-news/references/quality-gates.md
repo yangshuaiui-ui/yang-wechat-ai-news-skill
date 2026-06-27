@@ -1,6 +1,6 @@
 # Quality Gates
 
-This account uses layered publish gates: hard wording scan, voice scan, evidence scan, and reader-action scan. The goal is to keep the article like a real creator's judgment, not a generated report.
+This account uses layered publish gates: hard wording scan, living style scan, evidence scan, reader-action scan, and iteration scan. The goal is to keep the article like the user's own judgment, not a generated report.
 
 ## L1 Hard Scan
 
@@ -14,6 +14,7 @@ Fail and fix before delivery if any appear:
 - Old article image paths in a new article
 - Green or colorful emphasis in WeChat HTML
 - Copy HTML with multiple confusing copy paths unless the workspace explicitly requires it
+- A known rejected phrase from the living ledger or current user feedback
 
 ## L2 Voice Scan
 
@@ -24,6 +25,7 @@ Pass only if:
 - It avoids generic AI-report tone.
 - The title reads like a user-facing hook, not an internal angle note.
 - The opening gives a concrete scene, fact, or conflict within the first few lines.
+- It reflects the latest user-final draft deltas when available.
 
 ## L3 Content And Evidence Scan
 
@@ -48,6 +50,15 @@ Read as a busy mobile WeChat user and answer:
 6. Do I know what to do next?
 
 If any answer is no, revise the title, first screen, evidence, or ending before publishing.
+
+## L5 Iteration Scan
+
+Pass only if:
+
+- The current draft has been checked against the latest living ledger when available.
+- Recent user corrections have been applied proactively, not only after the user repeats them.
+- Generated draft, final HTML, and self-check note are in sync.
+- If the user provided a final edited draft, the reusable deltas were extracted for next time.
 
 ## HTML Checks
 
